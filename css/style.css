@@ -306,6 +306,7 @@ body {
   line-height: 140%;
   margin-bottom: 50px;
   font-weight: bold;
+  color: #000;
 }
 
 .header .header__content .header__discount {
