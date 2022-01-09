@@ -154,27 +154,6 @@ body {
       margin-bottom: 50px;
       font-weight: bold;
     }
-    .header__discount {
-      display: flex;
-      column-gap: 30px;
-      .header__time {
-        background: #121212;
-        padding: 20px 30px 40px 20px;
-        text-align: center;
-        align-items: center;
-        .header__time-count {
-          font-weight: bold;
-          font-size: 36px;
-          line-height: 140%;
-          font-weight: bold;
-        }
-        .header__time-what {
-          font-size: 16px;
-          line-height: 140%;
-          color: #717171;
-        }
-      }
-    }
   }
   .header__bottom {
     position: absolute;
